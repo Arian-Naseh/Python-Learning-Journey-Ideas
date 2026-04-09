@@ -4,3 +4,5 @@ Daily Python &amp; R projects for Econometrics and Data Science. Tracking my pro
 Started: April 2026
 Goal: Master Econometrics & Data Science
 Current Progress: Learning Python and R .
+​## Projects
+* [Week 1 Basics](./Week1_basics.py): Basic Python variables and input practice.
